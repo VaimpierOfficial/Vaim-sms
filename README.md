@@ -28,7 +28,7 @@
  
  <br>
 
-> Installation
+- Installation & Step's
  
 > apt update && apt upgrade
  
@@ -38,6 +38,8 @@
  
 > bash Vaim-sms.sh
 
-  
-<a href="https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ"> CLICK HERE AND SEE MY YOUTUBE CHANNEL </a>
+<br>
+
+
+- <a href="https://youtu.be/8s5MbNnpPCU"> CLICK HERE AND SEE TUTORIAL </a>
 
