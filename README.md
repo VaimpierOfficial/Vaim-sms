@@ -15,35 +15,35 @@
 
 * `Send unlimited messages all at one times.`
 
-* Supports newest Android also.
+* `Supports newest Android also.`
 
-* Instant SMS delivery or chose a delay.
+* `Instant SMS delivery or chose a delay.`
 
-* Working with all Operators/Carriers.
+* `Working with all Operators/Carriers.`
 
-* No missing SMS issues, all messages will be sent.
+* `No missing SMS issues, all messages will be sent.`
 
 <br>
 
 - Support
 
-> termux and all linux os windows.etc..
+> `termux and all linux os windows.etc..`
 
-> before update works only india.
+> `before update works only india.`
 
-> ffbonline.com and more threads.
+> `ffbonline.com and more threads.
  
  <br>
 
 - Installation & Step's
  
-> apt update && apt upgrade
+> `apt update && apt upgrade
  
 > git clone https://github.com/VaimpierOfficial/Vaim-sms
  
 > cd Vaim-sms  
  
-> bash Vaim-sms.sh
+> bash Vaim-sms.sh`
 
 <br>
 
