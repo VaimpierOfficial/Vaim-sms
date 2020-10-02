@@ -9,15 +9,15 @@
 > You can send unlimited SMS to anyone. This awesome app works with every operator/carrier.
 > THIS TOOL IS MADE BY ME @vaimpier_ritik
 
+<br>
 
+- Vaim-sms features 
 
--<b>Vaim-sms features </b><br>
-
--<p>  Send unlimited messages all at one times</p>
--<p>  Supports newest Android also</p>
--<p>  Instant SMS delivery or chose a delay</p>
--<p>  Working with all Operators/Carriers</p>
--<p>  No missing SMS issues, all messages will be sent</p>
+-  Send unlimited messages all at one times</p>
+-  Supports newest Android also</p>
+-  Instant SMS delivery or chose a delay</p>
+-  Working with all Operators/Carriers</p>
+-  No missing SMS issues, all messages will be sent</p>
 
 -<b>Support </b><br>
 -<p>  termux and all linux os windows.etc..</p>
