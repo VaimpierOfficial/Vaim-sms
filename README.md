@@ -13,15 +13,15 @@
 
 - Vaim-sms features 
 
-> Send unlimited messages all at one times.
+* Send unlimited messages all at one times.
 
-> Supports newest Android also.
+* Supports newest Android also.
 
-> Instant SMS delivery or chose a delay.
+* Instant SMS delivery or chose a delay.
 
-> Working with all Operators/Carriers.
+* Working with all Operators/Carriers.
 
-> No missing SMS issues, all messages will be sent.
+* No missing SMS issues, all messages will be sent.
 
 <br>
 
