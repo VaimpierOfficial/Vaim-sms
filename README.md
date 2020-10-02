@@ -31,19 +31,19 @@
 
 > `before update works only india.`
 
-> `ffbonline.com and more threads.
+> `ffbonline.com and more threads.`
  
  <br>
 
 - Installation & Step's
  
-> `apt update && apt upgrade
+> `apt update && apt upgrade`
  
-> git clone https://github.com/VaimpierOfficial/Vaim-sms
+> `git clone https://github.com/VaimpierOfficial/Vaim-sms`
  
-> cd Vaim-sms  
+> `cd Vaim-sms`  
  
-> bash Vaim-sms.sh`
+> `bash Vaim-sms.sh`
 
 <br>
 
