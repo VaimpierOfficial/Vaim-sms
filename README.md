@@ -2,11 +2,11 @@
 <img src="vaim-sms.png"><br>
 
 
-- <p>What is Vaim-sms ?<br>
-> this is sms bomber who send otp in target phone number unlimitly.<br>
-> Many times you just want to annoy or play a prank on your friends.<br>
-> If you find yourself in that situation then this SMS Bomber is the perfect tool for you!<br>
-> You can send unlimited SMS to anyone. This awesome app works with every operator/carrier.<br>
+- What is Vaim-sms ?
+> this is sms bomber who send otp in target phone number unlimitly.
+> Many times you just want to annoy or play a prank on your friends.
+> If you find yourself in that situation then this SMS Bomber is the perfect tool for you!
+> You can send unlimited SMS to anyone. This awesome app works with every operator/carrier.
 > THIS TOOL IS MADE BY ME @vaimpier_ritik
 
 
