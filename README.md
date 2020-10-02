@@ -13,19 +13,22 @@
 
 - Vaim-sms features 
 
--  Send unlimited messages all at one times</p>
--  Supports newest Android also</p>
--  Instant SMS delivery or chose a delay</p>
--  Working with all Operators/Carriers</p>
--  No missing SMS issues, all messages will be sent</p>
+> Send unlimited messages all at one times.
+> Supports newest Android also.
+> Instant SMS delivery or chose a delay.
+> Working with all Operators/Carriers.
+> No missing SMS issues, all messages will be sent.
 
--<b>Support </b><br>
--<p>  termux and all linux os windows.etc..</p>
--<p>  before update works only india.</p>
--<p>  ffbonline.com and more threads</p>
+<br>
+
+- Support
+> termux and all linux os windows.etc..
+> before update works only india.
+> ffbonline.com and more threads.
  
+ <br>
 
-><p>Installation <br>
+> Installation
  
 > apt update && apt upgrade
  
