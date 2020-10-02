@@ -13,7 +13,7 @@
 
 - Vaim-sms features 
 
-* Send unlimited messages all at one times.
+* `Send unlimited messages all at one times.`
 
 * Supports newest Android also.
 
