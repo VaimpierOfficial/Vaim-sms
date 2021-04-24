@@ -4,7 +4,7 @@
 #Vaim-sms v1.0
 #don't use my code with giving me credit 
 #if you use without giving me credit then you won't became a programmer so please respect
-#Youtube channel : https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ
+#Youtube channel : https://www.youtube.com/channel/UCDWhaLh7OIKzH4Bk952l7Iw
 #Github (coded by vaimpier ritik ) >>> : https://github.com/VaimpierOfficial
 #For business : sonuv0085@gmail.com
 #vaimpier
@@ -25,7 +25,7 @@ printf "\e[1;91m                   \/         \/     \e[0m\e[1;93m          \/  
 printf "\n"
 printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[1;31m           By VaimpierOfficial (Vaimpier Ritik)  \e[0m                            \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           v2.0 coded by @vaimpier                                           \e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
-printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ          \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
+printf " \e[1;77m[\e[1;93m::\e[0m\e[1;77m]           https://www.youtube.com/channel/UCDWhaLh7OIKzH4Bk952l7Iw          \e[0m\e[1;77m[\e[1;93m::\e[0m\e[1;77m]\e[0m\n"
 printf "\n"
 printf "        \e[1;91m Disclaimer: this tool is designed for Prank\n"
 printf "         testing in an authorized simulated cyberattack\n"
