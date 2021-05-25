@@ -39,21 +39,25 @@ printf "\n"
 
 
 upload() {
-
 clear
-printf "[+] HEY BRO PLEASE WAIT ......................... \n"
-printf "[+] NOTE : HEY BRO AFTER UPDATING IF DOES'NT WORK THEN PLEASE SEND ME MESSAGE ON MY G-MAIL : 'sonuv0085@gmail.com' \n KEEP WATCHING OUR YOUTUBE CHANNEL : https://www.youtube.com/channel/UCu-xG31hWgJLIptcPBuSigQ \n GITHUB : https://github.com/VaimpierOfficial \n"
-sleep 7
+echo ""
+echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
+echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !     Vaim-sms Updating...    !      \e[0m'
+echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
+echo ""
+rm -rf *
+sudo git clone https://github.com/VaimpierOfficial/Vaim-sms
+mv Vaim-sms/* $(pwd)
+rm -r Vaim-sms
+sudo chmod +x *
 clear
-cd
-rm -rf Vaim-sms
-git clone https://github.com/VaimpierOfficial/Vaim-sms
-cd Vaim-sms
-chmod +x *
-clear
-printf "[+] SCRIPT UPDATED PLEASE WAIT ............. "
-sleep 2
-bash Vaim-sms.sh 
+echo ""
+echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
+echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;91m     !      Vaim-sms UPDATED        !      \e[0m'
+echo -e $'\e[1;33m\e[0m\e[1;77m \e[0m\e[1;33m\e[0m\e[1;36m       ---------------------------        \e[0m'
+echo ""
+sleep 4
+sudo bash Vaim-sms.sh
 
 }
 
