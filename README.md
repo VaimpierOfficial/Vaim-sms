@@ -37,13 +37,13 @@
 
 - Installation & Step's
  
-> `apt update && apt upgrade`
+> `apt update && apt upgrade && apt install python3`
  
 > `git clone https://github.com/VaimpierOfficial/Vaim-sms`
  
 > `cd Vaim-sms`  
  
-> `bash Vaim-sms.sh`
+> `python3 Vaim-sms.py`
 
 <br>
 
